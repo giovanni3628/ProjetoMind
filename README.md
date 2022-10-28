@@ -1,5 +1,5 @@
 # ProjetoMind - Sistema de login com cadastro de cursos
-Projeto desenvolvido em ReactJS e NodeJs utilizando banco de dados MySQL
+Projeto desenvolvido em ReactJS e NodeJS utilizando banco de dados MySQL
 
 Sistema de login com validações(verifica se os e-mails são iguais ao se cadastrar, se os campos estão preenchidos e se estão corretos ao logar)
 CRUD completo(cria, lê, atualiza e deleta os cursos)
